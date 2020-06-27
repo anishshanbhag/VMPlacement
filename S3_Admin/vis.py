@@ -1,0 +1,1 @@
+from createObject import getPrediction 
